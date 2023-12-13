@@ -1,4 +1,4 @@
-# mycustomgpts
+# My Custom Gpts
 
 ## Introduction
 
