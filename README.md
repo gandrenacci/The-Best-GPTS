@@ -32,6 +32,8 @@ The Delphi Oracle provides cryptic and wise counsel, adapted from ancient wisdom
 **Philosophical and Reflective AI Experience**  
 Morpheus GPT merges AI with the profound wisdom of its namesake, encouraging you to question reality and explore philosophical thoughts, much like in “The Matrix.”
 
+## Entertainment
+
 ### [The Fortune-teller](https://chat.openai.com/g/g-bszGmASOG-into-the-matrix)
 **Unveiling Life’s Hidden Truths**  
 The Fortune-teller uses sacred numerology to reveal insights and guide you on your life’s path based on personal details like your name and birth date.
