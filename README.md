@@ -44,7 +44,7 @@ Debate Wars is a unique platform where you can initiate ChatGPT vs ChatGPT debat
 
 ## Conclusion
 
-This GitHub page is dedicated to showcasing the potential and diversity of GPT technology. Each tool has been carefully developed to provide unique and valuable experiences. Feel free to explore, use, and contribute to this ever-growing collection.
+This GitHub page is dedicated to the ethical and positive use of GPT technology. Each tool has been carefully developed to provide unique and valuable experiences.Feel free to explore, use, and ask any questions on the collection. 
 
 ---
 
