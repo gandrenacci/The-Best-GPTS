@@ -1,3 +1,5 @@
 title: The best custom GPTs
 description: GPT-based tools meticulously crafted for ethical and positive use.
 theme: minima
+minima:
+  skin: dark
