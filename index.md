@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # A collection of ethical Custom GPTs
 
 n creating engaging and accurate content across various domains. It adapts its writing style to fit different platforms, balancing creativity and efficiency. The suite of 19 dynamic commands offers control over tone, style, and more, enhancing your writing experience.
