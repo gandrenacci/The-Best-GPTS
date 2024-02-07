@@ -1,1 +1,4 @@
-theme: dark-poole
+title: The best custom GPTs
+description: GPT-based tools meticulously crafted for ethical and positive use.
+show_downloads: true
+theme: jekyll-theme-minimal
