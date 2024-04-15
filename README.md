@@ -16,6 +16,21 @@ Experience guided GPT writing with The Guided Writer. This tool crafts articles 
 **Revolutionary Writing Improvement**  
 Editing GURU elevates ChatGPT’s capabilities in content improvement. It conducts a Preliminary Analysis, offers precise Editing features, and a Rewriting Service, transforming your text while maintaining its core essence.
 
+### [Quotes and Aphorisms Creator](https://chat.openai.com/g/g-DeqFMK8IN-quotes-and-aphorisms-creator)
+**Generate Unique Inspirational Quotes and Aphorisms**  
+Create unique and memorable quotes and aphorisms that inspire and provoke thought. Whether you need a catchy phrase for a speech or a motivational quote for personal development, this tool helps you find the right words to express your ideas.
+
+### Data and Programming
+
+### [PyRefactor](https://chat.openai.com/g/g-b0ChYyFYK-pyrefactor)
+**Refactor Python Code**  
+Refactor python code efficiently with an expert in data science, machine learning (including LLM apps), and both OOP and functional programming. PyRefactor provides tailored support to enhance your programming projects, ensuring your code is clean, maintainable, and up-to-date.
+
+### [Power BI Guru](https://chat.openai.com/g/g-MccBo6YkF-power-bi-guru)
+**Expert in Power BI and DAX**  
+Gain expert guidance on analytics and visualization with Power BI. Whether you're new to data visualization or looking to deepen your expertise in Power BI and DAX, this tool offers insights and practical advice to improve your data analysis capabilities.
+
+
 ## Philosophy and Self-Improvement
 
 ### [The Philosopher](https://chat.openai.com/g/g-1KGHmUIWk-the-philosopher)
@@ -29,6 +44,15 @@ The Delphi Oracle provides cryptic and wise counsel, adapted from ancient wisdom
 ### [Morpheus](https://chat.openai.com/g/g-bszGmASOG-into-the-matrix)
 **Philosophical and Reflective AI Experience**  
 Morpheus GPT merges AI with the profound wisdom of its namesake, encouraging you to question reality and explore philosophical thoughts, much like in “The Matrix.”
+
+
+### [Socrates](https://chat.openai.com/g/g-RBEnfDIto-socrates)
+**Engaging Thoughtful Dialogue**  
+Engage in thoughtful and reflective dialogue in the Socratic style. Explore deep philosophical questions and expand your understanding of various topics through methodical and insightful discussions with Socrates.
+
+### [Jean-Paul](https://chat.openai.com/g/g-QqRpQbCIT-jean-paul)
+**The Greatest Existential Thinker of All Times**  
+Dive into existential philosophy with one of the greatest thinkers in history. Explore themes of freedom, alienation, and human emotions through rich, engaging dialogues that challenge and enlighten your perspective on life.
 
 ## Entertainment
 
