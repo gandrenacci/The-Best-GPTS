@@ -41,10 +41,14 @@ The Philosopher, versed in Western philosophy, offers a unique experience of und
 **Sage Guidance for Modern Times**  
 The Delphi Oracle provides cryptic and wise counsel, adapted from ancient wisdom to the modern world, guiding you in self-discovery and decision-making.
 
+### [InSightOut](https://chatgpt.com/g/g-6858f56397d48191ba2ea173c6ff724d-insightout)
+
+**Structured Self-Reflection for Deeper Clarity**
+Helps you to navigate a structured process of self-reflection to clearly identify, articulate, and make sense of your personal and professional challenges — bringing deeper insights to the surface and enabling more intentional decisions.
+
 ### [Morpheus](https://chat.openai.com/g/g-bszGmASOG-into-the-matrix)
 **Philosophical and Reflective AI Experience**  
 Morpheus GPT merges AI with the profound wisdom of its namesake, encouraging you to question reality and explore philosophical thoughts, much like in “The Matrix.”
-
 
 ### [Socrates](https://chat.openai.com/g/g-RBEnfDIto-socrates)
 **Engaging Thoughtful Dialogue**  
