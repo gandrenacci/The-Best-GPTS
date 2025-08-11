@@ -89,7 +89,7 @@ This GitHub page is dedicated to the ethical and positive use of GPT technology.
 
 ---
 
-For inquiries or suggestions, contact me at [gianpiero.andrenacci@gmail.com](mailto:gianpiero.andrenacci@gmail.com).
+For inquiries or suggestions, contact me at [MyLinkedIn Account](https://www.linkedin.com/in/gianpiero-andrenacci-72543532/).
 
 Explore, Engage, and Evolve with AI! 🌐💡🚀
 
