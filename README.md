@@ -33,6 +33,11 @@ Gain expert guidance on analytics and visualization with Power BI. Whether you'r
 
 ## Philosophy and Self-Improvement
 
+### [Personal Growth Partner](https://chatgpt.com/g/g-6899befb04048191921760762b3bdfce-personal-growth-partner)
+
+**Goal-Oriented Productivity and Growth Guidance**
+This GPT acts as your personal guide for achieving goals, boosting productivity, and navigating challenges with confidence. It helps you clarify your priorities, develop strategies for personal and professional growth, and build habits that support long-term success.
+
 ### [The Philosopher](https://chat.openai.com/g/g-1KGHmUIWk-the-philosopher)
 **Shared Inquiry and Understanding**  
 The Philosopher, versed in Western philosophy, offers a unique experience of understanding through shared inquiry, without imposing predefined thoughts.
@@ -67,6 +72,12 @@ With a profound understanding of the sacred numbers derived from your name, birt
 ### [Debate Wars](https://chat.openai.com/g/g-3f6WLJxOX-debate-wars)
 **Engaging AI Debates**  
 Debate Wars is a unique platform where you can initiate ChatGPT vs ChatGPT debates on any topic, offering insightful and thought-provoking discussions.
+
+### [PackPal](https://chatgpt.com/g/g-689389dcd67881918a3742607536e69b-packpal)
+
+**Personalized Travel Packing Assistant**
+This GPT acts as your practical travel assistant, generating personalized packing checklists based on your vacation details, ensuring you bring exactly what you need for a smooth trip.
+
 
 ## Conclusion
 
