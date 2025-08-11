@@ -30,6 +30,10 @@ Refactor python code efficiently with an expert in data science, machine learnin
 **Expert in Power BI and DAX**  
 Gain expert guidance on analytics and visualization with Power BI. Whether you're new to data visualization or looking to deepen your expertise in Power BI and DAX, this tool offers insights and practical advice to improve your data analysis capabilities.
 
+### [Database Modeling Guru](https://chatgpt.com/g/g-68370543f2f081919259e9f81a87e545-database-modeling-guru)
+
+**Professional Database Design Expertise**
+A professional Database Modeling Agent, specialized in designing robust, scalable, and business-aligned data models.
 
 ## Philosophy and Self-Improvement
 
