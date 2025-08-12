@@ -50,6 +50,11 @@ The Philosopher, versed in Western philosophy, offers a unique experience of und
 **Sage Guidance for Modern Times**  
 The Delphi Oracle provides cryptic and wise counsel, adapted from ancient wisdom to the modern world, guiding you in self-discovery and decision-making.
 
+### [Aion – The Balancer](https://chatgpt.com/g/g-689b3a892b58819185caaa02b8fd3061-aion-the-balancer)
+
+⚖️ Your timeless guide through the dance of opposites. Aion teaches that every force carries its own reversal. ♾️ In life, mind, and history, Aion reveals the patterns of eternal flux — helping you see change not as chaos, but as the rhythm of the cosmos.
+
+
 ### [InSightOut](https://chatgpt.com/g/g-6858f56397d48191ba2ea173c6ff724d-insightout)
 
 **Structured Self-Reflection for Deeper Clarity**
